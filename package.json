@@ -1,0 +1,29 @@
+{
+  "name": "aquagenius2-main",
+  "version": "1.0.0",
+  "description": "\"# Aquageniusv2\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvingabia/Aquageniusv2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvingabia/Aquageniusv2/issues"
+  },
+  "homepage": "https://github.com/marvingabia/Aquageniusv2#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "vue": "^3.5.14",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^10.0.0",
+    "webpack": "^5.99.8"
+  }
+}
